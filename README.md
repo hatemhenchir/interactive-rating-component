@@ -22,7 +22,7 @@ This is a simple interaction rating component built with ReactJS and CSS. It all
 - CSS
 
 ## Screenshots
-| ![](../screenshots/desktop.png) | ![](../screenshots/mobile.png) |
+| ![](./screenshots/desktop.png) | ![](./screenshots/mobile.png) |
 | ------------------------------ | ----------------------------- |
 | Desktop version                | Mobile version                |
 
