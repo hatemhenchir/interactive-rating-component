@@ -1,0 +1,44 @@
+.wrapper1 {
+  background-color: hsl(213, 19%, 12%);
+  max-width: 90vw;
+  width: 25rem;
+  border-radius: 1rem;
+  padding: 1.25rem 1rem 1rem 1rem;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.thankyouImg {
+    margin-bottom: 1.625rem; 
+}
+.selected{
+    background-color: hsl(213, 19%, 18%);
+    border-radius: 1rem;
+    padding: .3125rem .625rem;
+    color: hsl(25, 97%, 53%);
+    margin-bottom: 1.625rem;
+    max-width: 50vw;
+    font-size: .875rem;
+    font-weight: 400;
+}
+.wrapper1 h2{
+    color:hsl(0, 0%, 100%);
+    margin-bottom: 1.625rem;
+    font-size: 1.3125rem;
+    font-weight: 700;
+}
+.paragraphe{
+    color: hsl(217, 12%, 63%);
+    font-size: .9375rem;
+    font-weight: 400;
+    margin-bottom: 1.625rem;
+}
+@media all and  (min-width:400px){
+    .selected{
+        padding: .625rem 1.25rem;
+    }
+    .paragraphe{
+        font-size: 1.0156rem;
+    }
+}
